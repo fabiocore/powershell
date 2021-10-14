@@ -1,2 +1,3 @@
-# powershell
-Some powershell scripts
+# PowerShell Scripts
+
+Some of my powershell scripts.
